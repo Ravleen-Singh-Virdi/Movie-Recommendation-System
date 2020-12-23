@@ -1,4 +1,5 @@
 Objective:
+<br>
 To build a production-quality recommendation system. In our work, we have designed a 2-staged hybrid recommendation system. In stage 1 we have leveraged the ALS model and in stage 2 we have leveraged the content-based algorithms on a sampled movieLens dataset. We have measured the performance of the model using precision, coverage, and novelty and compared the performance of our hybrid recommendation model with two baseline models.
 
 Steps for the recommendation system on Movie Lens dataset:
