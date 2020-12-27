@@ -12,4 +12,4 @@ Contributors:
 2. Ravleen Singh Virdi
 3. Sanchya Sahay
 4. Shauryasinh Jadeja
-All are Columbia University graduates with a master's degree in Business Analytics.
+<br>All are Columbia University graduates with a master's degree in Business Analytics.
