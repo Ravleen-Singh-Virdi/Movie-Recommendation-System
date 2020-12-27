@@ -7,9 +7,8 @@ Steps for the recommendation system on Movie Lens dataset:
 2. Download "20MI" dataset from MovieLens here: https://grouplens.org/datasets/movielens
 3. For ALS model, content-based model, coverage, serendipity, novelty and conclusion are in Personalization_project.ipnyb notebook
 
-Contributors:
+Contributors (Columbia University graduates with a master's degree in Business Analytics):
 1. Aasma John
 2. Ravleen Singh Virdi
 3. Sanchya Sahay
 4. Shauryasinh Jadeja
-<br>All are Columbia University graduates with a master's degree in Business Analytics.
